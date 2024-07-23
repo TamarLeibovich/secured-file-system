@@ -43,3 +43,5 @@ in order for the file to open successfully.
 > operations at these locations.
 
 ## Demonstration
+
+the project's demonstration video can be found on this repository - just download the mp4 video, or clone the repository.
